@@ -1,0 +1,1 @@
+Create and save your KiCad folder here. The entire KiCad folder (when it asks you to create a new folder for the project).
