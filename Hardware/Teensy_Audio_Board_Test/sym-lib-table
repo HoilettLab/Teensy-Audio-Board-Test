@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Teensy_Audio_Board_Library")(type "KiCad")(uri "${KIPRJMOD}/Teensy_Audio_Board_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "AP7313-18SAG-7")(type "KiCad")(uri "${KIPRJMOD}/AP7313-18SAG-7.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q128FVSIG")(type "KiCad")(uri "${KIPRJMOD}/W25Q128FVSIG.kicad_sym")(options "")(descr ""))
+  (lib (name "SGTL5000XNBA3")(type "KiCad")(uri "${KIPRJMOD}/SGTL5000XNBA3.kicad_sym")(options "")(descr ""))
+  (lib (name "23LC1024T-ISN")(type "KiCad")(uri "${KIPRJMOD}/23LC1024T-ISN.kicad_sym")(options "")(descr ""))
+)
