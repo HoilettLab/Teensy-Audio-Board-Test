@@ -6854,16 +6854,6 @@
 		)
 		(uuid "a3ffcb0a-8cf6-403e-9b87-d9d6ece99949")
 	)
-	(text "Wires for MCLK, BCLK, LRCLK, TX, and RX should be kept short"
-		(exclude_from_sim no)
-		(at 134.366 7.366 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "ac3f2863-f9d8-4dcd-b4d8-82c98fa39d8c")
-	)
 	(text "GND"
 		(exclude_from_sim no)
 		(at 254 59.944 0)
